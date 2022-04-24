@@ -1,7 +1,5 @@
 //Joseph Sumlin
 //4/23/2022
-//Panther ID: 002-42-4529
-//CRN: 18158
 //Monte Carlo simulation for 5.10 in the Prob & Stats textbook,
 import java.util.Random;
 import java.util.Scanner;
